@@ -1,3 +1,5 @@
 # seanet_dataset
 
-SeaNet 所使用的公开数据集，包含 METR-LA、PEMS-BAY、PEMS04、PEMS07、PEMS08 等交通流预测数据。
+This repository contains the public datasets used in SeaNet, including METR-LA, PEMS-BAY, PEMS04, PEMS07, and PEMS08 for traffic forecasting research.
+
+Additional files and resources related to the paper will be released after the paper is accepted.
